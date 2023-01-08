@@ -1,9 +1,16 @@
 # ecomerce-project
 
-# intro
+## intro
 
 
--part 1
 
+### sub title
 
--part2 
+this is flow chart.
+
+- part 1
+
+- part 2 
+
+- part 3
+
